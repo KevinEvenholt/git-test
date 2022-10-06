@@ -5,3 +5,5 @@
 // git push skickar till repository
   
 // git pull tar ner från repository
+
+//git add . lägger till alla updaterade filer
